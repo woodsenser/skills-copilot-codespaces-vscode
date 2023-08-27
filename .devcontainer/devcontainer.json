@@ -1,0 +1,17 @@
+{
+  sgitlearn
+"sgitlearn":"Codespace for Skills!",
+  "customizations":{
+    "vscode":{
+      "extensions":[
+        "GitHub.copilot"
+      ]
+    }
+  }
+}
+
+  
+
+
+  
+
